@@ -12,7 +12,7 @@
 10,Kuttara Caldera,581,1906, ﻿42.499°N 141.175°E﻿ ,40 ka BP,Hokkaido
 11,Mashū Caldera,855,2805, ﻿43.570°N 144.565°E﻿ ,1 ka BP,Hokkaido
 12,Nigorigawa Caldera,356,1168, ﻿42.12°N 140.45°E﻿ ,15 ka BP,Hokkaido
-13,Nipesotsu-Maruyama Volcanic Group,2013,6604, ﻿43.453°N 143.036°E﻿ ,AD 1898[† 2],Hokkaido
+13,Nipesotsu-Maruyama Volcanic Group,2013,6604, ﻿43.453°N 143.036°E﻿ ,AD 1898,Hokkaido
 14,Niseko Volcanic Group,1309,4295, ﻿42.88°N 140.63°E﻿ ,6 ka BP,Hokkaido
 15,Mount Onnebetsu,1330,4364, ﻿43.993°N 145.013°E﻿ ,0.2 Ma BP,Hokkaido
 16,Oshima-Ōshima,737,2418, ﻿41.50°N 139.37°E﻿ ,AD 1759,Hokkaido
@@ -34,14 +34,14 @@
 32,Mount Yōtei,1898,6227, ﻿42.826°N 140.811°E﻿ ,2.5 ka BP,Hokkaido
 33,Abu Volcano Group,-,-, ﻿34.50°N 131.60°E﻿ ,Mt. Kasayama (ja): 8.8 ka BP,Honshu
 34,Mount Adatara,1718,5635, ﻿37.62°N 140.28°E﻿ ,AD 1900,Honshu
-35,Mount Akagi,1828,5997, ﻿36.53°N 139.18°E﻿ ,AD 1251?[† 3],Honshu
-36,Mount Akandana,2109,6919, ﻿36.200°N 137.572°E﻿ ,10-6.5 ka[† 4],Honshu
+35,Mount Akagi,1828,5997, ﻿36.53°N 139.18°E﻿ ,AD 1251?,Honshu
+36,Mount Akandana,2109,6919, ﻿36.200°N 137.572°E﻿ ,10-6.5 ka,Honshu
 37,Mount Akita-Komagatake,1637,5371, ﻿39.75°N 140.80°E﻿ ,AD 1971,Honshu
 38,Mount Akita-Yakeyama,1366,4482, ﻿39.964°N 140.757°E﻿ ,AD 1997,Honshu
 39,Mount Amagi,1406,4613, ﻿34.862°N 139.002°E﻿ ,0.2 Ma BP,Honshu
 40,Aonoyama Volcano Group [ja],-,-, ﻿34.461°N 131.791°E﻿ ,70 ka BP,Honshu
 41,Mount Asakusa [ja],1585,5200, ﻿37.343°N 139.234°E﻿ ,1.6 Ma BP,Honshu
-42,Mount Asama,2544,8340, ﻿36.405°N 138.522°E﻿ ,AD 2019[† 5],Honshu
+42,Mount Asama,2544,8340, ﻿36.405°N 138.522°E﻿ ,AD 2019,Honshu
 43,Mount Ashitaka,1504,4934, ﻿35.219°N 138.800°E﻿ ,80 ka BP,Honshu
 44,Mount Azuma,1705,5594, ﻿37.73°N 140.25°E﻿ ,AD 1977,Honshu
 45,Mount Azumaya,2354,7723, ﻿36.542°N 138.413°E﻿ ,0.3 Ma BP,Honshu
@@ -58,7 +58,7 @@
 56,Mount Hakkōda,1585,5200, ﻿40.656°N 140.881°E﻿ ,600-400 BP,Honshu
 57,Mount Hakone,1438,4720, ﻿35.22°N 139.02°E﻿ ,AD 2015,Honshu
 58,Mount Haku,2702,8865, ﻿36.15°N 136.78°E﻿ ,AD 1659,Honshu
-59,Mount Haruna,1449,4754, ﻿36.47°N 138.88°E﻿ ,AD 525-550[† 6],Honshu
+59,Mount Haruna,1449,4754, ﻿36.47°N 138.88°E﻿ ,AD 525-550,Honshu
 60,Hijiori Caldera,516,1693, ﻿38.608°N 140.161°E﻿ ,12 ka BP,Honshu
 61,Mount Hiuchigatake,2356,7730, ﻿36.95°N 139.28°E﻿ ,AD 1544,Honshu
 62,Mount Hotaka (ja),2158,7080, ﻿36.805°N 139.132°E﻿ ,1 Ma BP,Honshu
@@ -74,8 +74,8 @@
 72,Mount Komochi,1296,4252, ﻿36.591°N 138.998°E﻿ ,0.2 Ma BP,Honshu
 73,Mount Kurohime,2053,6736, ﻿36.817°N 138.120°E﻿ ,50 ka BP,Honshu
 74,Kurofuji Volcano Group,1642,5387, ﻿35.803°N 138.536°E﻿ ,0.5 Ma BP,Honshu
-75,Mount Kurikoma [ja],1628,5341, ﻿38.95°N 140.78°E﻿ ,AD 1944[† 7],Honshu
-76,Mount Kusatsu-Shirane,2160,7123, ﻿36.619°N 138.535°E﻿ ,AD 2018[† 8],Honshu
+75,Mount Kurikoma [ja],1628,5341, ﻿38.95°N 140.78°E﻿ ,AD 1944,Honshu
+76,Mount Kusatsu-Shirane,2160,7123, ﻿36.619°N 138.535°E﻿ ,AD 2018,Honshu
 77,Mount Onoko [ja],1208,3963, ﻿36.581°N 138.937°E﻿ ,1.2 Ma BP,Honshu
 78,Mount Madarao [ja],1382,4534, ﻿36.837°N 138.274°E﻿ ,0.5 Ma BP,Honshu
 79,Mount Minakami [ja],659,2162, ﻿36.554°N 138.222°E﻿ ,0.3 Ma BP,Honshu
@@ -84,23 +84,23 @@
 82,"Mukaimachi Caldera
 ",-,-, ﻿38.75°N 140.51°E﻿ ,0.6 Ma BP,Honshu
 83,Mount Mutsu-Hiuchi,781,2562, ﻿41.439°N 141.052°E﻿ ,0.5 Ma BP,Honshu
-84,Mount Myōkō,2446,8025, ﻿36.891°N 138.113°E﻿ ,3 ka BP[† 9],Honshu
+84,Mount Myōkō,2446,8025, ﻿36.891°N 138.113°E﻿ ,3 ka BP,Honshu
 85,Mount Naeba,2145,7037, ﻿36.836°N 138.684°E﻿ ,0.2 Ma BP,Honshu
 86,Mount Nanashigure [ja],1063,3488, ﻿40.069°N 141.106°E﻿ ,0.9 Ma BP,Honshu
 87,Mount Nantai,2484,8148, ﻿36.768°N 139.486°E﻿ ,7 ka BP,Honshu
-88,Narugo Caldera,462,1542, ﻿38.73°N 140.73°E﻿ ,AD 837[† 10],Honshu
+88,Narugo Caldera,462,1542, ﻿38.73°N 140.73°E﻿ ,AD 837,Honshu
 89,Mount Nasu,1917,6283, ﻿37.12°N 139.97°E﻿ ,Mt. Chausu (ja): AD 1963,Honshu
 90,Mount Nekoma,1404,4606, ﻿37.615°N 140.016°E﻿ ,0.8 Ma BP,Honshu
 91,Mount Niigata-Yakeyama,2400,7874, ﻿36.920°N 138.036°E﻿ ,2016,Honshu
 92,Mount Nikkō-Shirane,2578,8458, ﻿36.798°N 139.376°E﻿ ,AD 1890,Honshu
 93,Nodai Caldera,-,-, ﻿41.267°N 140.867°E﻿ ,1.9 Ma BP,Honshu
-94,Mount Nyōhō-Akanagi,2483,8146, ﻿36.811°N 139.536°E﻿ ,80 ka BP[† 11],Honshu
+94,Mount Nyōhō-Akanagi,2483,8146, ﻿36.811°N 139.536°E﻿ ,80 ka BP,Honshu
 95,Mount Norikura,3026,9928, ﻿36.106°N 137.55°E﻿ ,2 ka BP,Honshu
 96,Numazawa [ja],1100,3609, ﻿37.454°N 139.572°E﻿ ,5.4 ka BP,Honshu
 97,Oki-Dōgo,151,495, ﻿36.181°N 133.324°E﻿ ,0.42 Ma BP,Honshu
 98,Okiura Caldera,-,-, ﻿40.567°N 140.733°E﻿ ,1.5 Ma BP,Honshu
-99,Mount Omanago [ja],2376,7795, ﻿36.796°N 139.507°E﻿ ,0.47 Ma[† 12],Honshu
-100,Mount Ontake,3063,10049, ﻿35.890°N 137.48°E﻿ ,AD 2020[† 13],Honshu
+99,Mount Omanago [ja],2376,7795, ﻿36.796°N 139.507°E﻿ ,0.47 Ma,Honshu
+100,Mount Ontake,3063,10049, ﻿35.890°N 137.48°E﻿ ,AD 2020,Honshu
 101,"Onikobe Caldera [ja]
 ",-,-, ﻿38.83°N 140.69°E﻿ ,0.2 Ma BP,Honshu
 102,Mount Osore,879,2884, ﻿41.32°N 141.08°E﻿ ,20 ka BP or 1787,Honshu
@@ -117,18 +117,18 @@
 113,Washiba-Kumontaira,2924,9593, ﻿36.408°N 137.594°E﻿ ,4000 BC,Honshu
 114,Mount Yake,2455,8054, ﻿36.226°N 137.587°E﻿ ,AD 1963,Honshu
 115,Mount Yakeishi,1548,5079, ﻿39.164°N 140.829°E﻿ ,0.2 Ma BP,Honshu
-116,Kita-Yatsugatake(Northern Yatsugatake Volcanic Group),-,-, ﻿36.088°N 138.32°E﻿ ,Mt.Yokodake [ja]: 0.9-0.7 ka BP,Honshu
+116,Kita-Yatsugatake(Northern Yatsugatake Volcanic Group),-,-, ﻿36.088°N 138.32°E﻿ ,Mt.Yokodake ,Honshu
 117,Minami-Yatsugatake(Southern Yatsugatake Volcanic Group),-,-, ﻿35.971°N 138.37°E﻿ ,0.1 Ma BP,Honshu
 118,Mount Tateshina (Part of　Northern Yatsugatake Volcanic Group),2530,8300, ﻿36.10°N 138.30°E﻿ ,,Honshu
 119,Mount Zaō,1841,6040, ﻿38.15°N 140.45°E﻿ ,AD 1940,Honshu
 120,Aogashima,423,1388, ﻿32.45°N 139.77°E﻿ ,AD 1785,Izu_Islands
-121,Bayonnaise Rocks,11,36, ﻿31.888°N 139.918°E﻿ ,AD 1970[† 14],Izu_Islands
+121,Bayonnaise Rocks,11,36, ﻿31.888°N 139.918°E﻿ ,AD 1970,Izu_Islands
 122,Hachijōjima,854,2802, ﻿33.13°N 139.77°E﻿ ,AD 1605,Izu_Islands
 123,Izu-Ōshima,758,2507, ﻿34.726°N 139.394°E﻿ ,Mt. Mihara: AD 1990,Izu_Islands
 124,Kōzushima,574,1877, ﻿34.22°N 139.15°E﻿ ,AD 838,Izu_Islands
-125,Kurose,-110,-361, ﻿33.40°N 139.68°E﻿ ,Caldera: older than 20 ka BP[† 15],Izu_Islands
+125,Kurose,-110,-361, ﻿33.40°N 139.68°E﻿ ,Caldera: older than 20 ka BP,Izu_Islands
 126,Mikurajima,851,2792, ﻿33.871°N 139.605°E﻿ ,6.3 ka BP,Izu_Islands
-127,Miyakejima,813,2674, ﻿34.086°N 139.526°E﻿ ,AD 2013[† 16],Izu_Islands
+127,Miyakejima,813,2674, ﻿34.086°N 139.526°E﻿ ,AD 2013,Izu_Islands
 128,Myōjinshō (A.K.A. Myojin Reef),-50,-164, ﻿31.918°N 140.021°E﻿ ,AD 1970,Izu_Islands
 129,Niijima,432,1417, ﻿34.37°N 139.27°E﻿ ,Mt. Mukaiyama: 887,Izu_Islands
 130,Sofugan (A.K.A. Lot's Wife),99,325, ﻿29.793°N 140.342°E﻿ ,(Discolored water: AD 1975),Izu_Islands
@@ -136,24 +136,24 @@
 132,Toshima,508,1667, ﻿34.52°N 139.28°E﻿ ,9.1-4.0 ka BP,Izu_Islands
 133,Torishima (A.K.A. Izu-Torishima),394,1293, ﻿30.484°N 140.302°E﻿ ,AD 2002,Izu_Islands
 134,Nishinoshima,142,466, ﻿27.274°N 140.877°E﻿ ,AD 2017,Ogasawara_Archipelago
-135,Fukutoku-Okanoba,-25,-82, ﻿24.28°N 141.485°E﻿ ,AD 2005[† 17],Ogasawara_Archipelago
-136,Fukujin Seamount [ja],-43,-141, ﻿21.767°N 143.717°E﻿ ,AD 1974[† 18],Ogasawara_Archipelago
+135,Fukutoku-Okanoba,-25,-82, ﻿24.28°N 141.485°E﻿ ,AD 2005,Ogasawara_Archipelago
+136,Fukujin Seamount [ja],-43,-141, ﻿21.767°N 143.717°E﻿ ,AD 1974,Ogasawara_Archipelago
 137,Funka Asane,-20,-67, ﻿25.455°N 141.238°E﻿ ,AD 1945,Ogasawara_Archipelago
 138,Kita-Iōjima (North Iwo Jima),792,2598, ﻿25.43°N 141.28°E﻿ ,0.14 Ma BP,Ogasawara_Archipelago
 139,Iōjima (Iwo Jima),161,528, ﻿24.781°N 141.315°E﻿ ,AD 2015,Ogasawara_Archipelago
-140,Kaitoku Seamount,-103,-338, ﻿26.127°N 141.098°E﻿ ,AD 1984[† 19],Ogasawara_Archipelago
+140,Kaitoku Seamount,-103,-338, ﻿26.127°N 141.098°E﻿ ,AD 1984,Ogasawara_Archipelago
 141,Kaikata Seamount,-165,-541, ﻿26.667°N 140.929°E﻿ ,(Submarine hydrothermal activity: AD 1988),Ogasawara_Archipelago
-142,Kasuga Seamount,-598,-1962, ﻿22.767°N 142.717°E﻿ ,AD 1959[† 20],Ogasawara_Archipelago
+142,Kasuga Seamount,-598,-1962, ﻿22.767°N 142.717°E﻿ ,AD 1959,Ogasawara_Archipelago
 143,Minami-Kasuga Seamount,-274,-899, ﻿21.6°N 143.633°E﻿ ,,Ogasawara_Archipelago
 144,Kita-Fukutokutai,-55,-180, ﻿24.414°N 141.419°E﻿ ,AD 1988?,Ogasawara_Archipelago
-145,Minami-Hiyoshi Seamount [ja],-30,-98, ﻿23.5°N 141.935°E﻿ ,AD 1976[† 21],Ogasawara_Archipelago
+145,Minami-Hiyoshi Seamount [ja],-30,-98, ﻿23.5°N 141.935°E﻿ ,AD 1976,Ogasawara_Archipelago
 146,Nikkō Seamount [ja],-612,-2008, ﻿23.083°N 142.3°E﻿ ,(Discolored water: AD 1979),Ogasawara_Archipelago
 147,Mokuyō Seamount,-920,-3018, ﻿28.317°N 140.566°E﻿ ,(Submarine hydrothermal activity: AD 1990),Ogasawara_Archipelago
 148,Suiyo Seamount,-1418,-4652, ﻿28.6°N 140.633°E﻿ ,(Submarine hydrothermal activity: AD 1991),Ogasawara_Archipelago
 149,Aira Caldera,-,-, ﻿31.656°N 130.705°E﻿ ,25 ka BP,Kyushu
 150,Ata Caldera [ja],-,-, ﻿31.359°N 130.683°E﻿ ,0.11 Ma BP,Kyushu
 151,Wakamiko Caldera [ja],-,-, ﻿31.666°N 130.783°E﻿ ,19 ka BP,Kyushu
-152,Mount Aso(A.K.A. Aso Caldera),1592,5223, ﻿32.881°N 131.106°E﻿ ,AD 2019[† 22],Kyushu
+152,Mount Aso(A.K.A. Aso Caldera),1592,5223, ﻿32.881°N 131.106°E﻿ ,AD 2019,Kyushu
 153,Fukue Volcano Group,315,1033, ﻿32.653°N 128.861°E﻿ ,unknown volcano: 2.4 ka BP,Kyushu
 154,Mount Futago (ja),720,2362, ﻿33.583°N 131.601°E﻿ ,1.1 Ma BP,Kyushu
 155,Ibusuki Volcanic Field [ja],922,3025, ﻿31.22°N 130.57°E﻿ ,30 ka BP,Kyushu
@@ -165,11 +165,11 @@
 161,Mount Kirishima,1700,5577, ﻿31.931°N 130.864°E﻿ ,Mt. Shinmoedake: AD 2018,Kyushu
 162,Kobayashi Caldera,-,-, ﻿31.99°N 130.976°E﻿ ,0.4 Ma BP,Kyushu
 163,Mount Kujū,1791,5876, ﻿33.083°N 131.251°E﻿ ,AD 1996,Kyushu
-164,Sakurajima,1117,3665, ﻿31.585°N 130.657°E﻿ ,AD 2016[† 23],Kyushu
+164,Sakurajima,1117,3665, ﻿31.585°N 130.657°E﻿ ,AD 2016,Kyushu
 165,Ojikajima Volcano Group,111,364, ﻿33.201°N 129.063°E﻿ ,0.3 Ma BP,Kyushu
-166,Lake Sumiyoshi [ja],-,-, ﻿31.771°N 130.591°E﻿ ,8.2 ka BP[† 24],Kyushu
-167,Yonemaru [ja],-,-, ﻿31.775°N 130.564°E﻿ ,8.1-8 ka BP[† 24],Kyushu
-168,Mount Takasaki [ja],628,2060, ﻿33.252°N 131.524°E﻿ ,0.5 Ma BP[† 24],Kyushu
+166,Lake Sumiyoshi [ja],-,-, ﻿31.771°N 130.591°E﻿ ,8.2 ka BP,Kyushu
+167,Yonemaru [ja],-,-, ﻿31.775°N 130.564°E﻿ ,8.1-8 ka BP,Kyushu
+168,Mount Takasaki [ja],628,2060, ﻿33.252°N 131.524°E﻿ ,0.5 Ma BP,Kyushu
 169,Mount Tara [ja],1076,3530, ﻿32.974°N 130.071°E﻿ ,0.4 Ma BP,Kyushu
 170,Mount Tsurumi and Mount Garan,1584,5197, ﻿33.28°N 131.432°E﻿ ,AD 867,Kyushu
 171,Mount Unzen,1500,4921, ﻿32.757°N 130.294°E﻿ ,AD 1996,Kyushu
