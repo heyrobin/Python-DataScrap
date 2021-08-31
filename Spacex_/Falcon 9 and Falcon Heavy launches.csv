@@ -1,10 +1,10 @@
 ,Flight No,Date,Time,Booster_Version,Launch_Site,Payload,Payload_Mass,Orbit,Customer,Launch_Outcome,Booster_landing
-0,1,4 June 2010,18:45,F9 v1.0 B0003.1,CCAFS SLC-40,Dragon Spacecraft Qualification Unit,,LEO,SpaceX,Success,Failure
-1,2,8 December 2010,15:43,F9 v1.0 B0004.1,CCAFS SLC-40,Dragon demo flight C1,,LEO (ISS),NASA (COTS) NRO,Success,Failure
-2,3,22 May 2012,07:44,F9 v1.0 B0005.1,CCAFS SLC-40,Dragon demo flight C2+,525 ,LEO (ISS),NASA (COTS),Success,No attempt
-3,4,8 October 2012,00:35,F9 v1.0 B0006.1,CCAFS SLC-40,SpaceX CRS-1,"4,700 ",LEO (ISS),NASA (CRS),Success,No attempt
-4,4,8 October 2012,00:35,F9 v1.0 B0006.1,CCAFS SLC-40,Orbcomm-OG2,172 ,LEO,Orbcomm,Partial failure,No attempt
-5,5,1 March 2013,15:10,F9 v1.0 B0007.1,CCAFS SLC-40,SpaceX CRS-2,"4,877 ",LEO (ISS),NASA (CRS),Success,No attempt
+0,1,4 June 2010,18:45,F9 v1.0 B0003,CCAFS SLC-40,Dragon Spacecraft Qualification Unit,,LEO,SpaceX,Success,Failure
+1,2,8 December 2010,15:43,F9 v1.0 B0004,CCAFS SLC-40,Dragon demo flight C1,,LEO (ISS),NASA (COTS) NRO,Success,Failure
+2,3,22 May 2012,07:44,F9 v1.0 B0005,CCAFS SLC-40,Dragon demo flight C2+,525 ,LEO (ISS),NASA (COTS),Success,No attempt
+3,4,8 October 2012,00:35,F9 v1.0 B0006,CCAFS SLC-40,SpaceX CRS-1,"4,700 ",LEO (ISS),NASA (CRS),Success,No attempt
+4,4,8 October 2012,00:35,F9 v1.0 B0006,CCAFS SLC-40,Orbcomm-OG2,172 ,LEO,Orbcomm,Partial failure,No attempt
+5,5,1 March 2013,15:10,F9 v1.0 B0007,CCAFS SLC-40,SpaceX CRS-2,"4,877 ",LEO (ISS),NASA (CRS),Success,No attempt
 6,6,29 September 2013,16:00,F9 v1.1 B1003,VAFB SLC-4E,CASSIOPE,500 ,Polar orbit LEO,MDA,Success,Uncontrolled(ocean)
 7,7,3 December 2013,22:41,F9 v1.1 B1004,CCAFS SLC-40,SES-8,"3,170 ",GTO,SES,Success,No attempt
 8,8,6 January 2014,22:06,F9 v1.1,CCAFS SLC-40,Thaicom 6,"3,325 ",GTO,Thaicom,Success,No attempt
@@ -19,18 +19,18 @@
 17,17,14 April 2015,20:10,F9 v1.1 B1015,Cape Canaveral LC-40,SpaceX CRS-6,"1,898 ",LEO (ISS),NASA (CRS),Success,Failure
 18,18,27 April 2015,23:03,F9 v1.1 B1016,Cape Canaveral LC-40,TürkmenÄlem 52°E / MonacoSAT,"4,707 ",GTO,Turkmenistan NationalSpace Agency,Success,No attempt
 19,19,28 June 2015,14:21,F9 v1.1 B1018,Cape Canaveral LC-40,SpaceX CRS-7,"1,952 ",LEO (ISS),NASA (CRS),Failure,Precluded
-20,20,22 December 2015,01:29,F9 FT B1019.1,Cape Canaveral LC-40,Orbcomm-OG2-2,"2,034 ",LEO,Orbcomm,Success,Success
+20,20,22 December 2015,01:29,F9 FT B1019,Cape Canaveral LC-40,Orbcomm-OG2-2,"2,034 ",LEO,Orbcomm,Success,Success
 21,21,17 January 2016,18:42,F9 v1.1 B1017,VAFB SLC-4E,Jason-3,553 ,LEO,NASA (LSP) NOAA CNES,Success,Failure(drone ship)
-22,22,4 March 2016,23:35,F9 FT B1020.1,Cape Canaveral LC-40,SES-9,"5,271 ",GTO,SES,Success,Failure(drone ship)
+22,22,4 March 2016,23:35,F9 FT B1020,Cape Canaveral LC-40,SES-9,"5,271 ",GTO,SES,Success,Failure(drone ship)
 23,23,8 April 2016,20:43,F9 FT B1021.1,Cape Canaveral LC-40,SpaceX CRS-8,"3,136 ",LEO (ISS),NASA (CRS),Success,Success
-24,24,6 May 2016,05:21,F9 FT B1022.1,Cape Canaveral LC-40,JCSAT-14,"4,696 ",GTO,SKY Perfect JSAT Group,Success,Success(drone ship)
+24,24,6 May 2016,05:21,F9 FT B1022,Cape Canaveral LC-40,JCSAT-14,"4,696 ",GTO,SKY Perfect JSAT Group,Success,Success(drone ship)
 25,25,27 May 2016,21:39,F9 FT B1023.1,Cape Canaveral LC-40,Thaicom 8,"3,100 ",GTO,Thaicom,Success,Success
-26,26,15 June 2016,14:29,F9 FT B1024.1,Cape Canaveral LC-40,ABS-2A Eutelsat 117 West B,"3,600 ",GTO,ABS Eutelsat,Success,Failure
+26,26,15 June 2016,14:29,F9 FT B1024,Cape Canaveral LC-40,ABS-2A Eutelsat 117 West B,"3,600 ",GTO,ABS Eutelsat,Success,Failure
 27,27,18 July 2016,04:45,F9 FT B1025.1,Cape Canaveral LC-40,SpaceX CRS-9,"2,257 ",LEO (ISS),NASA (CRS),Success,Success(ground pad)
-28,28,14 August 2016,05:26,F9 FT B1026.1,Cape Canaveral LC-40,JCSAT-16,"4,600 ",GTO,SKY Perfect JSAT Group,Success,Success(drone ship)
+28,28,14 August 2016,05:26,F9 FT B1026,Cape Canaveral LC-40,JCSAT-16,"4,600 ",GTO,SKY Perfect JSAT Group,Success,Success(drone ship)
 29,29,14 January 2017,17:54,F9 FT B1029.1,VAFB SLC-4E,Iridium NEXT-1,"9,600 ",Polar LEO,Iridium Communications,Success,Success
 30,30,19 February 2017,14:39,F9 FT B1031.1,KSC LC-39A,SpaceX CRS-10,"2,490 ",LEO (ISS),NASA (CRS),Success,Success(ground pad)
-31,31,16 March 2017,06:00,F9 FT B1030.1,KSC LC-39A,EchoStar 23,"5,600 ",GTO,EchoStar,Success,No attempt
+31,31,16 March 2017,06:00,F9 FT B1030,KSC LC-39A,EchoStar 23,"5,600 ",GTO,EchoStar,Success,No attempt
 32,32,30 March 2017,22:27,F9 FT B1021.2,KSC LC-39A,SES-10,"5,300 ",GTO,SES,Success,Success(drone ship)
 33,33,1 May 2017,11:15,F9 FT B1032.1,KSC LC-39A,NROL-76,Classified,LEO,NRO,Success,Success(ground pad)
 34,34,15 May 2017,23:21,F9 FT B1034.1,KSC LC-39A,Inmarsat-5 F4,"6,070 ",GTO,Inmarsat,Success,No attempt
@@ -113,7 +113,7 @@
 111,111,14 March 2021,10:01,F9 B5 B1051.9,KSC LC-39A,Starlink 21 v1.0 (60 satellites),"15,600 ",LEO,SpaceX,Success,Success(drone ship)
 112,112,24 March 2021,08:28,F9 B5 B1060.6,CCSFS SLC-40,Starlink 22 v1.0 (60 satellites),"15,600 ",LEO,SpaceX,Success,Success(drone ship)
 113,113,7 April 2021,16:34,F9 B5 B1058.7,CCSFS SLC-40,Starlink 23 v1.0 (60 satellites),"15,600 ",LEO,SpaceX,Success,Success(drone ship)
-114,114,23 April 2021,9:49,F9 B5 B1061.2,KSC LC-39A,Crew-2(Crew Dragon C206.2 Endeavour ♺),"13,000 ",LEO (ISS),NASA (CTS),Success,Success(drone ship)
+114,114,23 April 2021,09:49,F9 B5 B1061.2,KSC LC-39A,Crew-2(Crew Dragon C206.2 Endeavour ♺),"13,000 ",LEO (ISS),NASA (CTS),Success,Success(drone ship)
 115,115,29 April 2021,03:44,F9 B5 B1060.7,CCSFS SLC-40,Starlink 24 v1.0 (60 satellites),"15,600 ",LEO,SpaceX,Success,Success(drone ship)
 116,116,4 May 2021,19:01,F9 B5 B1049.9,KSC LC-39A,Starlink 25 v1.0 (60 satellites),"15,600 ",LEO,SpaceX,Success,Success(drone ship)
 117,117,9 May 2021,06:42,F9 B5 B1051.10,CCSFS SLC-40,Starlink 27 v1.0 (60 satellites),"15,600 ",LEO,SpaceX,Success,Success(drone ship)
@@ -123,3 +123,4 @@
 121,121,6 June 2021,04:26,F9 B5  B1061.3,CCSFS SLC-40,SXM-8,"7,000 ",GTO,Sirius XM,Success,Success(drone ship)
 122,122,17 June 2021,16:09,F9 B5  B1062.2,CCSFS SLC-40,GPS III-05 (Neil Armstrong),"4,331 ",MEO,USSF,Success,Success(drone ship)
 123,123,30 June 2021,19:31,F9 B5  B1060.8,CCSFS SLC-40,Transporter-2: (88 payloads Smallsat Rideshare),"11,000 ",SSO,Various,Success,Success(ground pad)
+124,124,29 August 2021,07:14,F9 B5 B1061.4,KSC LC-39A,SpaceX CRS-23(Dragon C208.2 ♺),"2,200 ",LEO (ISS),NASA (CRS),Success,Success(drone ship)
